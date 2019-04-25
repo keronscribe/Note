@@ -1,7 +1,7 @@
 2019/04/21
 
 錯誤單字 ／ 錯誤原因 ／注意方向  
-  
+
 violence ／拼字錯誤 ／注意後半是 lence  
 diligent / 拼字錯誤 / 注意後半是 gent  
 behaviour /拼字錯誤 / be+hav+iour  
@@ -9,7 +9,7 @@ revelation / 意思錯誤 ／注意 revelation 不在 relative 詞組裡
 meteorite / 發音錯誤 / /ˈmiːtiəraɪt/  
 circuit / 拼字錯誤 / 注意中間的 i 不要忘記，後面是 cuit  
 fringed / 拼字錯誤 / 流蘇沒有朋友  
-sufficient /拼字錯誤 /中間是 ci   
+sufficient /拼字錯誤 /中間是 ci  
 plotter / 忘記意思 ／poltter 是繪圖機  
 capacity /拼字錯誤 / 注意容量後面是 city  
 versatile / 拼字錯誤 / 注意是 ver+sa+tile 錯誤次數x2  
@@ -28,8 +28,7 @@ dock ／ 意思忘記 ／ 是港口！
 blouse ／意思忘記 ／ 是上衣  
 thermometer / 發音錯誤 ／ 中間有一個媽媽  
 fern / 意思忘記 ／ 是蕨類 
-  
-  
+
 2019/04/22  
 meteorite ／忘記讀音、忘記意思  
 visibility / 拼字錯誤 /   
@@ -68,4 +67,49 @@ pint / 發音錯誤／品脫
 coward / 拼字錯誤 ／後面是ward   
 moist / 拼字錯誤 ／簡潔有力沒有 e   
 windmill／拼字錯誤／是MMMMMM  
+
+2019/04/23  
+
+accuracy／拼字錯誤／後面是acy  
+induce ／拼字錯誤 ／ duce  
+synthesize / 意思忘記／是合成  
+indigenous／意思忘記／國產的、本土的  
+chronological ／拼字錯誤／ 秘是面前是 ch  
+surmount ／忘記意思／是克服  
+
+2019/04/25
+
+funeral / 拼字錯誤 / 中間是 ne    
+hormone /  拼字錯誤 / hor +mone  
+
+grouchy / 意思忘記
+
+dynamite /   拼字錯誤 / 中間是 na
+
+propagate/ 拼字錯誤 / 中間是 pa
+
+autonomy / 拼字錯誤 / 自治權
+
+credential / 拼字錯誤 / 是tial ＊前面是子音就是tial ，是母音就是cial
+
+exaggerate/ 拼字錯誤／中間是 ger
+
+meteorite / 拼字錯誤 ／中間是 teo
+
+fundamental/ spelling mistake / 'da'
+
+destory / 拼字錯誤／des troy
+
+activation / 活化作用／
+
+crayon / 拼字錯誤 / 中間是 ray
+
+penguin/  拼字錯誤 / 後面是 guin
+
+mustard / 拼字錯誤/ 前面是 must
+
+slingshot / 拼字錯誤/ 前面是sling
+
+scout / 意思忘記／監視＝
+
 
