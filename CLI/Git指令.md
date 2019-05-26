@@ -1,10 +1,10 @@
-## Git 操作與指令
 - 基礎指令
-    |指令名稱|作用|
-    |:--------:|:------|
-    |git init|初始化，也就是建立一個 repo  在我們現在的資料夾裡面，創建一個隱藏資料夾 `.git`，供所有之後版本的版本紀錄存放|
-    |git status|顯示版本控制狀態，分成：not a git repository / nothing to commit / Untracked files / Changes to be committed |
-    |git add <filename>|加入（被）版本控制，每一次有修正都要重新把檔案 add 成 stage 狀態才能被 commit|
+
+|指令名稱|作用|
+|:--------:|:------|
+|git init|初始化，也就是建立一個 repo  在我們現在的資料夾裡面，創建一個隱藏資料夾 `.git`，供所有之後版本的版本紀錄存放|
+|git status|顯示版本控制狀態，分成：not a git repository / nothing to commit / Untracked files / Changes to be committed |
+|git add <filename>|加入（被）版本控制，每一次有修正都要重新把檔案 add 成 stage 狀態才能被 commit|
    |git rm --cached <filename>|將檔案移出版本控制|
    |git commit|送出一個新版本|
    |git commit -am <備註>|不開 vim 直接寫備註 commit|
