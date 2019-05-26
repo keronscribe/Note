@@ -13,7 +13,7 @@
     |cp A B| 複製 A 檔案為 B 檔案|
     |grep a B | 在 B 檔案裡面揪出內中為 a 的字|
     | wget <URL>| 後面接網址，下載之|
-    | `|`pipe  | 前面的輸出變成後面的輸入|
+    | pipe | 前面的輸出變成後面的輸入|
     | man | 印出該指令使用手冊，按 Q 跳出|
     |pwd| 印出你現在的位置|
     |curl <URL>|發一個 GET 的 request 到該 URL 並返回 response|
