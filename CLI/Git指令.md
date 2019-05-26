@@ -1,3 +1,5 @@
+## Git 基礎
+  
 - 基礎指令
 
 |指令名稱|作用|
@@ -17,3 +19,15 @@
 - 實作紀錄
 <figure class="wp-block-image"><img src="https://keronscribe.files.wordpress.com/2019/04/e89ea2e5b995e5bfabe785a7-2019-04-16-e4b88ae58d8811.23.06.png" alt="" class="wp-image-1193"/><figcaption>我的第一個版本紀錄，用的是我在<a href="https://keronscribe.wordpress.com/2019/04/15/cli-%e5%9f%ba%e7%a4%8e/">這篇文章</a>裡面裝的環境。<br></figcaption></figure>
 <figure class="wp-block-image"><img src="https://keronscribe.files.wordpress.com/2019/04/e89ea2e5b995e5bfabe785a7-2019-04-16-e4b88be58d8812.01.39.png" alt="" class="wp-image-1194"/><figcaption>用 git log --oneline 得到的內容<br></figcaption></figure>
+
+##Git branch
+
+- Git branch 相關指令
+
+    |指令|功能|
+    |:------:|:------|
+    |git branch <新分支名>|建新分支|
+    |git branch -v| 查看當前有哪些 branch|
+    |git branch -d <branch name>|刪除該分支|
+    |git checkout <branch name>|切換所在分支|
+    |git merge <branch name> | 把分支中的最新版本，合併進 master。|
