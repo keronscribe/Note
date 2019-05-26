@@ -17,4 +17,5 @@
     | man | 印出該指令使用手冊，按 Q 跳出|
     |pwd| 印出你現在的位置|
     |curl <URL>|發一個 GET 的 request 到該 URL 並返回 response|
-  許多內容來自 ClayGao 整理的[表格](https://github.com/Lidemy/mentor-program-3rd-ClayGao/blob/master/homeworks/week5/hw1.md)，微修改成我自己比較理解的部分，並刪掉我還沒理解的指令。
+  
+- 許多內容來自 ClayGao 整理的[表格](https://github.com/Lidemy/mentor-program-3rd-ClayGao/blob/master/homeworks/week5/hw1.md)，微修改成我自己比較理解的部分，並刪掉我還沒理解的指令。
